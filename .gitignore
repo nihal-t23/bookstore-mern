@@ -1,0 +1,11 @@
+# Node.js dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Build files
+frontend/.next/
+frontend/build/
+backend/dist/
+
+backend/.env
+frontend/.env
